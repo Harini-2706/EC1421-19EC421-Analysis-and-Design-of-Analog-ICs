@@ -1,11 +1,11 @@
 ## EC1421-19EC421-Analysis-and-Design-of-Analog-ICs
-## SIMULATION OF DIGITAL TO ANALOG CONVERTER
+## DIGITAL TO ANALOG CONVERTER
 
 ## AIM:
 To Design and simulate the digital to analog converter (DAC) circuit using LT Spice
 
 ## SOFTWARE REQUIRED:
-LT-Spice
+LT-Spice 
 
 ## PROCEDURE:
 1. Double click on LT Spice icon.
@@ -35,10 +35,16 @@ For v2 and v3  keeping the other values constant.
 
 ## CIRCUIT DIAGRAM:
 ### DAC:
+![Simulation of DAC LHS](https://github.com/user-attachments/assets/93a74be3-12fc-40fb-bd69-352c0079990a)
+
 
 
 ## OUTPUT GRAPH:
 ### DAC:
+![Simulation of DAC LHS](https://github.com/user-attachments/assets/656d115d-2ea9-4fce-b919-b34ed1601fe0)
+
 
 ## RESULT:
+![Simulation of DAC RHS](https://github.com/user-attachments/assets/b114356f-0c5f-4e0f-a5ac-dfc06b29710a)
+
 Thus the LT-SPICE tool has been studied and digital to analog converter (DAC) circuit is simulated.
