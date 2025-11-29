@@ -36,7 +36,8 @@ Choose  R1 = 1kΩ, Rf=10kΩ
 
 ## MODEL GRAPH:
 
-![WhatsApp Image 2025-11-29 at 11 30 28_1c1e526f](https://github.com/user-attachments/assets/a2a7a02f-256a-47db-851b-db07b7098ec4)
+![WhatsApp Image 2025-11-29 at 11 39 41_67816d1b](https://github.com/user-attachments/assets/273debfd-a3da-4757-8df2-493507ef0081)
+
 
 
 ## PROCEDURE:
